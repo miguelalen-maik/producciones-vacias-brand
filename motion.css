@@ -1,0 +1,23 @@
+/* Animation only: no resting layout, dimensions or typography change. */
+.download-card button,.menu-toggle,.menu-close{
+  transition:background-color 160ms ease,color 160ms ease,outline-color 160ms ease;
+}
+.header nav a,.menu-content nav a,.menu-brand,.contact a{
+  transition:color 160ms ease,outline-color 160ms ease;
+}
+.wordmark{transition:opacity 160ms ease}
+.business-card{transition:translate 180ms cubic-bezier(.2,.7,.3,1)}
+
+@media(hover:hover) and (pointer:fine){
+  .business-card:hover{translate:0 -3px}
+  .header nav a:hover,.menu-brand:hover{color:#507461}
+  .wordmark:hover{opacity:.85}
+  .contact a:hover{color:var(--cream)}
+}
+
+@media(prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .download-card button,.menu-toggle,.menu-close,.header nav a,
+  .menu-content nav a,.menu-brand,.contact a,.wordmark,.business-card{transition:none}
+  .business-card:hover{translate:none}
+}

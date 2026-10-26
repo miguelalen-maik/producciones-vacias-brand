@@ -1,0 +1,154 @@
+/* Existing desktop rules remain in styles.css. Figma references: 834 and 390 px. */
+picture{display:contents}
+picture>source{display:none}
+.menu-toggle{display:none}
+.responsive-menu{display:none}
+
+@media(max-width:1199px){
+  .site{width:100%;zoom:1}
+  h2{font-size:40px}
+  .eyebrow{font-size:20px;line-height:30px}
+  .body{font-size:16px;line-height:24px}
+  .body-large{font-size:18px;line-height:27px}
+  .section-heading{gap:16px}
+  .header{height:92px;padding:24px 48px}
+  .header>nav{display:none}
+  .wordmark{width:380px;height:auto;min-width:0}
+  .wordmark img{width:380px;height:auto;max-width:100%}
+  .menu-toggle,.menu-close{display:flex;flex:none;align-items:center;gap:12px;padding:10px 8px;border:0;background:transparent;color:var(--ink);font-size:18px;font-weight:600;line-height:24px;cursor:pointer}
+  .menu-icon{display:block;position:relative;width:20px;height:7px;border-top:1px solid currentColor;border-bottom:1px solid currentColor}
+  .menu-toggle:hover,.menu-close:hover{color:#507461}
+  .hero{height:426px;padding:64px 48px;display:grid;grid-template-columns:minmax(0,314fr) minmax(0,384fr);gap:40px;align-items:start}
+  .hero-copy{position:static;min-width:0;width:100%}
+  .hero-copy img{width:64px;height:auto}
+  .hero h1{width:100%;font-size:48px}
+  .hero-poster{position:static;width:100%;height:auto;aspect-ratio:384/534.557}
+  .concept{height:auto;padding:96px 48px;display:grid;grid-template-columns:minmax(0,338fr) minmax(0,368fr);gap:32px;align-items:start}
+  .concept-copy{position:static;width:auto;min-width:0}
+  .concept-heading{gap:12px}
+  .business-cards{position:relative;width:100%;aspect-ratio:368/501.012;overflow:clip}
+  .business-card{height:auto}
+  .card-06{left:0;top:19.4686%;width:60.3182%;aspect-ratio:221.971/126.361}
+  .card-07{left:0;top:56.4598%;width:60.2734%;aspect-ratio:221.806/128.578}
+  .card-02{left:39.7582%;top:35.9293%;width:60.1788%;aspect-ratio:221.458/125.031}
+  .card-09{left:37.9511%;top:74.3356%;width:60.2193%;aspect-ratio:221.607/128.578}
+  .card-04{left:39.2772%;top:0;width:60.2193%;aspect-ratio:221.607/128.578}
+  .logo-section{height:auto;padding:96px 48px}
+  .logo-section img{width:400px;height:auto;max-width:100%}
+  .colors{height:auto;padding:96px 48px}
+  .colors-layout{width:100%;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:40px}
+  .palettes{width:100%;gap:32px}
+  .palettes figure{width:100%;height:auto}
+  .palettes img{width:100%;height:auto;aspect-ratio:349/107.385}
+  .palettes figcaption{gap:0;margin-top:16px;padding:0 3.8462%;font-size:14px;line-height:21px;text-align:center}
+  .palettes figcaption span,.palettes figure:first-child span:nth-child(n){width:25%;flex:1;min-width:0}
+  .colors-copy{width:100%;min-width:0}
+  .typography{height:auto;padding:96px 48px;gap:32px;align-items:start;display:grid;grid-template-columns:minmax(0,338fr) minmax(0,368fr)}
+  .type-copy{width:100%;height:auto;gap:32px;min-width:0}
+  .type-copy h2{line-height:1.5;white-space:normal}
+  .type-specimens{width:100%;gap:16px}
+  .type-specimens img{height:auto;max-width:100%}
+  .type-specimens picture>img{width:280px}
+  .type-specimens>img{width:90%;aspect-ratio:331.2/228.596}
+  .type-specimens p{font-size:20px;line-height:30px;width:100%}
+  .claims{height:auto;flex-direction:column}
+  .claims-copy{width:100%;padding:64px 48px;align-items:start}
+  .claims h2{font-size:56px}
+  .claims-copy .body-large{width:100%;font-size:20px;line-height:30px}
+  .claims-collection{width:100%;padding:50px 48px;gap:24px}
+  .claims-collection img{width:72px;height:96.01px}
+  .claims-collection ul{white-space:normal;min-width:0;flex:1}
+  .applications{height:auto;padding:96px 48px;display:flex;flex-direction:column;gap:48px}
+  .applications .section-heading{width:100%;text-align:center}
+  .applications h2{line-height:1.5}
+  .ticket,.dead-finks{position:static;width:100%;height:auto}
+  .ticket{aspect-ratio:738/407.283}
+  .dead-finks{aspect-ratio:738/1027.365}
+  .brand-kit{padding:96px 48px}
+  .kit-inner{width:100%;gap:64px}
+  .kit-heading h2{line-height:1.5}
+  .kit-group{gap:24px;min-width:0}
+  .kit-group h3{height:auto;padding:16px 0;font-size:16px;line-height:24px}
+  .kit-columns{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  .previews{gap:24px;min-width:0}
+  .preview-card{width:100%;min-width:0}
+  .preview{height:auto;aspect-ratio:592/380}
+  .preview>img,.preview>picture>img{width:100%;height:100%}
+  .preview.main-logo-preview>picture>img{width:43.9189%;height:auto;left:28.0405%;top:15.7895%;aspect-ratio:1}
+  .preview-card figcaption{margin-top:16px;font-size:20px;line-height:30px}
+  .download-card{width:100%;min-width:0;gap:24px;font-size:20px;line-height:30px}
+  .download-card .small{font-size:16px;line-height:24px}
+  .download-card .separated{margin-top:24px}
+  .download-card .resources-small{margin-top:30px}
+  .download-card button{width:100%;min-height:56px;padding:10px 25px;font-size:20px;line-height:30px}
+  .font-address{overflow-wrap:anywhere}
+  .font-address br{display:none}
+  .footer{padding:64px 48px}
+  .contact{font-size:16px;line-height:22px;width:100%;margin-bottom:56px;white-space:normal}
+  .footer-meta{height:40px;align-items:start;margin-bottom:48px}
+  .footer-meta p{font-size:20px;line-height:20px;width:160px}
+  .romance-logo{width:100%;height:auto;aspect-ratio:738/129.137}
+  .footer-bottom{min-height:0;align-items:start;gap:24px;margin-top:32px}
+  .footer-bottom>div,.footer-bottom>p{width:calc((100% - 24px)/2);min-height:0}
+  .download-notice{max-width:calc(100% - 48px)}
+  html.menu-open{overflow:hidden}
+  .responsive-menu:modal{display:flex;flex-direction:column;position:fixed;inset:0;width:100%;height:100dvh;max-width:none;max-height:none;margin:0;padding:0;border:0;background:var(--cream);color:var(--ink);overflow:auto;overscroll-behavior:contain}
+  .responsive-menu::backdrop{background:var(--cream)}
+  .menu-header{display:flex;align-items:center;justify-content:space-between;padding:24px 48px;min-height:92px;flex:none}
+  .close-icon{font-size:24px;line-height:24px}
+  .menu-content{display:flex;flex:1;flex-direction:column;justify-content:space-between;padding:48px;gap:48px}
+  .menu-content nav{display:flex;flex-direction:column;gap:16px}
+  .menu-content nav a{display:flex;flex-direction:column;gap:16px;padding:12px 0;font-size:56px;font-weight:600;line-height:1.1;color:#244638}
+  .menu-content nav a::after{content:'';height:1px;background:#c6c0b4}
+  .menu-content nav a:hover{color:#507461}
+  .menu-brand{display:block;border-top:1px solid #c6c0b4;padding-top:16px;color:#244638;font-size:16px;font-weight:600;line-height:1.1}
+}
+
+@media(max-width:767px){
+  h2{font-size:32px}
+  .eyebrow{font-size:18px;line-height:27px}
+  .body p+p,.body-large p+p{margin-top:16px}
+  .header{height:76px;padding:16px 24px}
+  .wordmark{width:220px;max-width:calc(100% - 104px)}
+  .wordmark img{width:220px}
+  .hero{height:536px;padding:48px 24px;display:flex;flex-direction:column;gap:32px}
+  .hero-copy{gap:24px;flex:none}
+  .hero-copy img{width:48px}
+  .hero h1{font-size:40px;max-width:342px}
+  .hero-poster{flex:none;aspect-ratio:342/476.09}
+  .concept{padding:64px 24px;grid-template-columns:minmax(0,1fr);gap:32px}
+  .business-cards{aspect-ratio:342/465.614}
+  .logo-section{padding:64px 24px}
+  .logo-section img{width:260px}
+  .colors{padding:64px 24px}
+  .colors-layout{grid-template-columns:minmax(0,1fr);gap:40px}
+  .palettes img{aspect-ratio:342/105.231}
+  .typography{padding:64px 24px;grid-template-columns:minmax(0,1fr);gap:40px}
+  .type-specimens picture>img{width:80%}
+  .type-specimens p{font-size:18px;line-height:27px}
+  .claims-copy{padding:64px 48px;align-items:center}
+  .claims-copy h2{width:300px;max-width:calc(100% + 6px)}
+  .claims-copy .body-large p+p{margin-top:24px}
+  .claims-collection{padding:50px 32px;flex-direction:column;align-items:start;gap:24px}
+  .claims-collection ul{width:100%;flex:auto}
+  .applications{padding:64px 24px;gap:32px}
+  .ticket{aspect-ratio:342/188.741}
+  .dead-finks{aspect-ratio:342/476.096}
+  .brand-kit{padding:64px 24px}
+  .kit-inner{gap:56px}
+  .kit-columns{grid-template-columns:minmax(0,1fr)}
+  .preview-card figcaption{font-size:18px;line-height:27px}
+  .download-card{font-size:18px;line-height:27px}
+  .download-card .resources-small{margin-top:27px}
+  .download-card button{font-size:18px;line-height:27px}
+  .footer{padding:48px 24px}
+  .footer-meta{height:36.908px;margin-bottom:32px}
+  .footer-meta p{font-size:18px;line-height:18px;width:120px}
+  .romance-logo{aspect-ratio:342/59.8438}
+  .footer-bottom{flex-direction:column;gap:24px}
+  .footer-bottom>div,.footer-bottom>p{width:100%}
+  .menu-header{padding:16px 24px;min-height:76px}
+  .menu-content{padding:48px 24px 32px}
+  .menu-content nav{gap:12px}
+  .menu-content nav a{font-size:36px}
+}

@@ -1,0 +1,276 @@
+{
+  "logos": {
+    "url": "assets/downloads/producciones-vacias-logos.zip",
+    "bytes": 1448244,
+    "sha256": "c1595dd8aa399e32f87624c88a50056767cffa04436739f7a51bc2008ca082be",
+    "files": [
+      {
+        "source": "assets/logos/logo PV-1.svg",
+        "member": "Logos/principal/svg/logo-pv-1.svg",
+        "bytes": 23663,
+        "sha256": "08db22d4a58ec53634b8cf70948f9cafc9f3363805ac9ba2512e815772ae548d"
+      },
+      {
+        "source": "assets/logos/logo PV-2.svg",
+        "member": "Logos/principal/svg/logo-pv-2.svg",
+        "bytes": 23743,
+        "sha256": "b230f974b312a75c6bcdb26dfa9280fc733b2d3e0bfecd947d291ab2f59b34bc"
+      },
+      {
+        "source": "assets/logos/logo PV-3.svg",
+        "member": "Logos/principal/svg/logo-pv-3.svg",
+        "bytes": 23672,
+        "sha256": "6255ed96f1abeb46d9f93b897ad7a2a028fd70aa1885a98b546a79e04989209f"
+      },
+      {
+        "source": "assets/logos/logo PV-4.svg",
+        "member": "Logos/principal/svg/logo-pv-4.svg",
+        "bytes": 23739,
+        "sha256": "f86679bcda11e464072586dad26cd68fc3e7b38ad2e212faab66782906000367"
+      },
+      {
+        "source": "assets/logos/logo PV-5.svg",
+        "member": "Logos/principal/svg/logo-pv-5.svg",
+        "bytes": 23663,
+        "sha256": "ceb9551980950b1761c29dad2cb93bae0257f08a1b622b83dd3f29b9ca52ec54"
+      },
+      {
+        "source": "assets/logos/logo PV-6.svg",
+        "member": "Logos/principal/svg/logo-pv-6.svg",
+        "bytes": 23748,
+        "sha256": "a51e938e00e4a2245e60c2475b0155bc2afdf44b26681906663693605216affa"
+      },
+      {
+        "source": "assets/logos/logo PV-7.svg",
+        "member": "Logos/principal/svg/logo-pv-7.svg",
+        "bytes": 23672,
+        "sha256": "319202b55b6ac720d21c44fb88c93542976abf8356d25f0caf5ae3aac0ce9236"
+      },
+      {
+        "source": "assets/logos/logo PV.svg",
+        "member": "Logos/principal/svg/logo-pv.svg",
+        "bytes": 23734,
+        "sha256": "1b8b3296d2826fdb091f13fa07568c7080a3100fbac6cbe8ab0d2e8c4cba0225"
+      },
+      {
+        "source": "assets/logos/logo PV@2x-1.png",
+        "member": "Logos/principal/png/logo-pv-2x-1.png",
+        "bytes": 138480,
+        "sha256": "d5b101480ad0a9fa343aae0619757ac8b7241571ad987c9dc0d5a72891812971"
+      },
+      {
+        "source": "assets/logos/logo PV@2x-2.png",
+        "member": "Logos/principal/png/logo-pv-2x-2.png",
+        "bytes": 197637,
+        "sha256": "77751018a6cba81d11def39392ece1f36200478e0e3eb7940855ea129ccdf835"
+      },
+      {
+        "source": "assets/logos/logo PV@2x-3.png",
+        "member": "Logos/principal/png/logo-pv-2x-3.png",
+        "bytes": 160736,
+        "sha256": "de00f657b49ed8c81dd6662eae52d23b4ed7f529e55ab5929f9c497defc25743"
+      },
+      {
+        "source": "assets/logos/logo PV@2x-4.png",
+        "member": "Logos/principal/png/logo-pv-2x-4.png",
+        "bytes": 161306,
+        "sha256": "fad8cb29dcbda803fa1948e0a6853d154ee54d5293c70fa1ba7e17ecb7ff3092"
+      },
+      {
+        "source": "assets/logos/logo PV@2x-5.png",
+        "member": "Logos/principal/png/logo-pv-2x-5.png",
+        "bytes": 141975,
+        "sha256": "b6dfeb8eed21a5ecfcd973ac455a5f819b7a2195f18265389db7e6f80b127da7"
+      },
+      {
+        "source": "assets/logos/logo PV@2x-6.png",
+        "member": "Logos/principal/png/logo-pv-2x-6.png",
+        "bytes": 195706,
+        "sha256": "2c7251327b54c174d561cd0e1c7ae6c8ca3bcd90c282cf079d684a21a016c6ce"
+      },
+      {
+        "source": "assets/logos/logo PV@2x-7.png",
+        "member": "Logos/principal/png/logo-pv-2x-7.png",
+        "bytes": 157069,
+        "sha256": "c7b1ef28560ecc207a88e9d15960a83ee043e7e3123f1bdca3669b8eb08efc09"
+      },
+      {
+        "source": "assets/logos/logo PV@2x.png",
+        "member": "Logos/principal/png/logo-pv-2x.png",
+        "bytes": 166996,
+        "sha256": "599b9d65d9df6b5452a8c7e785ab0198ce3bbbd00a76ce9cd78768bcb6a31896"
+      },
+      {
+        "source": "assets/logos/logo horizontal PV-1.svg",
+        "member": "Logos/horizontal/svg/logo-horizontal-pv-1.svg",
+        "bytes": 13136,
+        "sha256": "f81aaeef0ac25bcaa63f8a9487947d3178a7a9581cad3a162e38b6ca9e45fd0c"
+      },
+      {
+        "source": "assets/logos/logo horizontal PV.svg",
+        "member": "Logos/horizontal/svg/logo-horizontal-pv.svg",
+        "bytes": 13157,
+        "sha256": "3fc94e4e6a2e7d239de43a0c47b716a0c3869dfbd19fb5bfe88b5f09678d0f76"
+      },
+      {
+        "source": "assets/logos/logo horizontal PV@2x-1.png",
+        "member": "Logos/horizontal/png/logo-horizontal-pv-2x-1.png",
+        "bytes": 59536,
+        "sha256": "f4df3372b3c89d7b215c179838d58e8174f45d5b00495b756ce3fdb83ae60ea8"
+      },
+      {
+        "source": "assets/logos/logo horizontal PV@2x.png",
+        "member": "Logos/horizontal/png/logo-horizontal-pv-2x.png",
+        "bytes": 63963,
+        "sha256": "c910ef6a8f94af7363b09fbda5498ca09b695965a6d81b88be5192d6487b7d77"
+      }
+    ]
+  },
+  "carteles": {
+    "url": "assets/downloads/producciones-vacias-carteles.zip",
+    "bytes": 2860928905,
+    "sha256": "a00a2a5f0e88d2d25c547bdc1e8a01566bbb43d91f89a33f361ed697cc020e48",
+    "files": [
+      {
+        "source": "assets/carteles/Urin/RRSS.png",
+        "member": "Carteles/urin/rrss.png",
+        "bytes": 24845122,
+        "sha256": "826f4ea80d6ae972936fc905041ac55feef15378944721b6f7c67bab6cd9517b"
+      },
+      {
+        "source": "assets/carteles/Urin/imprimir (B:N).pdf",
+        "member": "Carteles/urin/imprimir-b-n-.pdf",
+        "bytes": 70153716,
+        "sha256": "d3dfd433569615602dac208f882efd6eeaacecb7d62714c1c6f5d164a7b373ba"
+      },
+      {
+        "source": "assets/carteles/Urin/imprimir (color–cortar bordes).pdf",
+        "member": "Carteles/urin/imprimir-colorcortar-bordes-.pdf",
+        "bytes": 218905139,
+        "sha256": "fc42873040cd2d7c229f31c2d432312e7c47de71c54d96c693d22edae9aa1bad"
+      },
+      {
+        "source": "assets/carteles/cartel general/general karate.pdf",
+        "member": "Carteles/cartel-general/general-karate.pdf",
+        "bytes": 284505063,
+        "sha256": "edf9e2ca5e7c248a75e4c22ab4d2140bb7228258dde1e095f0afeddac4b04d90"
+      },
+      {
+        "source": "assets/carteles/cartel general/general karate.png",
+        "member": "Carteles/cartel-general/general-karate.png",
+        "bytes": 31574148,
+        "sha256": "5318b7ea66103396336bde5862a9fddd132b769c103ae8be2f2c4f011e600285"
+      },
+      {
+        "source": "assets/carteles/cartel general/general simple.pdf",
+        "member": "Carteles/cartel-general/general-simple.pdf",
+        "bytes": 281931188,
+        "sha256": "bab62b0c79c3381514c7ac36cfb9e70c5f1141fed0bc647f962b326375a7d537"
+      },
+      {
+        "source": "assets/carteles/cartel general/general simple.png",
+        "member": "Carteles/cartel-general/general-simple.png",
+        "bytes": 30077055,
+        "sha256": "d7080d0eb84afcc64417b2583a840a3f6dc9eee8bb9710d160d4b3b83a13eb72"
+      },
+      {
+        "source": "assets/carteles/dark thoughts/dark thoughts.pdf",
+        "member": "Carteles/dark-thoughts/dark-thoughts.pdf",
+        "bytes": 279742162,
+        "sha256": "133b7b7f65e1ad8eab11bdee020a0c0d76007fd36c95d67fb185c876acd51084"
+      },
+      {
+        "source": "assets/carteles/dark thoughts/dark thoughts.png",
+        "member": "Carteles/dark-thoughts/dark-thoughts.png",
+        "bytes": 29571987,
+        "sha256": "04bcdca4da48dc9f1e2ed1645ad6b09e69dddff49b204cb6410adc8d20af1466"
+      },
+      {
+        "source": "assets/carteles/dead finks/dead finks.pdf",
+        "member": "Carteles/dead-finks/dead-finks.pdf",
+        "bytes": 278568916,
+        "sha256": "a34eac61373218e1655066bcf3921334cd5d3ed0740f5eb9226a6a0ce28e8b71"
+      },
+      {
+        "source": "assets/carteles/dead finks/dead finks.png",
+        "member": "Carteles/dead-finks/dead-finks.png",
+        "bytes": 30003828,
+        "sha256": "0e9d4ad73e6a1e9188179cc8fbbf7ac565286eb6554e07bd98844237c23cf7df"
+      },
+      {
+        "source": "assets/carteles/entradas/como marcar.png",
+        "member": "Carteles/entradas/como-marcar.png",
+        "bytes": 2495760,
+        "sha256": "0d65a1c4ffcc87b26bbd053b760fd466091006bbe797e2e20a249904662649c7"
+      },
+      {
+        "source": "assets/carteles/entradas/entrada genérica.pdf",
+        "member": "Carteles/entradas/entrada-generica.pdf",
+        "bytes": 154075058,
+        "sha256": "0ae52f62b0eeeb77091cc01172ea32731a7539df90c081c3aad6a61baf87bc97"
+      },
+      {
+        "source": "assets/carteles/las eras/las eras.pdf",
+        "member": "Carteles/las-eras/las-eras.pdf",
+        "bytes": 275919066,
+        "sha256": "c63d5d3303f5935871b79377acebd67c7e117f9fd7dc51ea2dd3248ea13bbde9"
+      },
+      {
+        "source": "assets/carteles/las eras/las eras.png",
+        "member": "Carteles/las-eras/las-eras.png",
+        "bytes": 28711615,
+        "sha256": "5118b6cef292489b1b6df5e2d5bdce9a564de1c2f566c2b0e49c1d335911905e"
+      },
+      {
+        "source": "assets/carteles/power plant/RRSS.png",
+        "member": "Carteles/power-plant/rrss.png",
+        "bytes": 29641622,
+        "sha256": "498f6f6d600e09b3f184adb36e6ada9935b795106b3042942d5bf5c6325d8bf9"
+      },
+      {
+        "source": "assets/carteles/power plant/imprimir blanco y negro.pdf",
+        "member": "Carteles/power-plant/imprimir-blanco-y-negro.pdf",
+        "bytes": 269738141,
+        "sha256": "6420ea39d694c42cf215b3002beb784f88bcc5416f04ef996cdb9928e3fcb0f3"
+      },
+      {
+        "source": "assets/carteles/power plant/imprimir color.pdf",
+        "member": "Carteles/power-plant/imprimir-color.pdf",
+        "bytes": 279242801,
+        "sha256": "af1dfb9064cfe622755ab8dcb69528778c6564e16f796160fc7b020cdc52cbd1"
+      },
+      {
+        "source": "assets/carteles/power plant/imprimir color.psd",
+        "member": "Carteles/power-plant/imprimir-color.psd",
+        "bytes": 361400705,
+        "sha256": "dfeaab2954291a6f58506b30ff8bae54f231d5dc1c6271ac935816681d2fff46"
+      }
+    ]
+  },
+  "plantillas": {
+    "url": "assets/downloads/producciones-vacias-plantillas-y-acciones.zip",
+    "bytes": 191701111,
+    "sha256": "054ce55a2b9309ef69c4c95e47034c0aaa3b363faf36b180aa1e08446c4e4f59",
+    "files": [
+      {
+        "source": "assets/plantillas/plantilla.psd",
+        "member": "Plantillas-y-Acciones/plantillas/plantilla.psd",
+        "bytes": 265530833,
+        "sha256": "5cb01c08eadc6e3966df9e4e885e183a8d14f7bf208c05269c9b96897fd16e5f"
+      },
+      {
+        "source": "assets/photoshop-actions/Producciones vacias.atn",
+        "member": "Plantillas-y-Acciones/photoshop-actions/producciones-vacias.atn",
+        "bytes": 1892,
+        "sha256": "da98416abc1954955e5d7f4631db47c98e220c1695febcf39af6197186fddb2e"
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "url": "assets/recursos/iconos.svg",
+      "bytes": 77006,
+      "sha256": "4c3d4b84977f9b713698a6ac89cdf2460a78bdc918123cc753ddccba8aa47216"
+    }
+  ]
+}
