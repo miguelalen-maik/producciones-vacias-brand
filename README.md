@@ -59,7 +59,7 @@ python3 scripts/verify-downloads.py
 
 ## Git y archivos grandes
 
-Los PNG, PDF y PSD originales se versionan con **Git LFS**. En otro equipo es necesario instalar Git LFS antes de clonar, o ejecutar después:
+Los PNG que se muestran en la interfaz se guardan directamente en Git, con sus rutas originales, para que funcionen en despliegues estáticos sin depender de Git LFS. Los demás PNG, PDF y PSD originales se versionan con **Git LFS**. En otro equipo es necesario instalar Git LFS antes de clonar, o ejecutar después:
 
 ```sh
 git lfs install
@@ -73,4 +73,4 @@ python3 scripts/build-downloads.py
 python3 scripts/verify-downloads.py
 ```
 
-El resto de la web se sirve directamente como archivos estáticos. No publicar una copia que contenga únicamente los punteros de Git LFS: deben descargarse los originales antes de preparar el despliegue.
+Las imágenes visibles de la web se sirven directamente como archivos estáticos y no requieren resolver Git LFS. No es necesario recuperar los PDF ni los PSD pesados para renderizar la interfaz; los botones de Carteles y Plantillas conservan sus enlaces externos de Dropbox.

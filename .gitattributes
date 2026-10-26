@@ -2,3 +2,9 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
+
+# Visible interface images must be available in plain Git checkouts and deploys.
+assets/figma/*.png -filter -diff -merge -text
+"assets/carteles/dark thoughts/dark thoughts.png" -filter -diff -merge -text
+"assets/carteles/dead finks/dead finks.png" -filter -diff -merge -text
+"assets/carteles/entradas/como marcar.png" -filter -diff -merge -text
